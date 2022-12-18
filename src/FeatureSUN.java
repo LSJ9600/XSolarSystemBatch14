@@ -3,4 +3,4 @@ public class FeatureSUN {
     String Heat;
     int size;
 }
-}
+
